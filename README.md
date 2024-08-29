@@ -6,5 +6,4 @@ This repository contains a Streamlit app designed for classifying images of teet
 - View Predictions: Receive predictions on the type of teeth based on the uploaded images.
 - Real-time Feedback: Instantly see the classification results with an interactive user interface.
 
-## App Preview
 
